@@ -323,13 +323,13 @@ https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist
 http://video.karavanatv.com:8081/live/karavanaweb/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Iptv" tvg-name="KpopTv" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Music", KpopTv
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
-#EXTINF:-1 tvg-id="Xtrematv" tvg-name="Xtrema PJ Digital" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Radio", Xtrema PJ Digital
+#EXTINF:-1 tvg-id="Xtrematv" tvg-name="Xtrema PJ Digital" tvg-logo="" group-title="Radio", Xtrema PJ Digital
 https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Iptv" tvg-name="Ruidos TV" tvg-logo="https://cdn.m3u.cl/logo/13_Ruidos_TV.png" group-title="Radio", Ruidos TV
+#EXTINF:-1 tvg-id="Iptv" tvg-name="Ruidos TV" tvg-logo="" group-title="Radio", Ruidos TV
 https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Iptv" tvg-name="Red Fueguina Radio" tvg-logo="https://cdn.m3u.cl/logo/400_Red_Fueguina_Radio.png" group-title="Radio", Red Fueguina Radio
+#EXTINF:-1 tvg-id="Iptv" tvg-name="Red Fueguina Radio" tvg-logo="" group-title="Radio", Red Fueguina Radio
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Iptv" tvg-name="Radio Fantasia TV" tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png" group-title="Radio", Radio Fantasia TV
+#EXTINF:-1 tvg-id="Iptv" tvg-name="Radio Fantasia TV" tvg-logo="" group-title="Radio", Radio Fantasia TV
 https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="387" tvg-name="Zona Play Radio" tvg-logo="https://cdn.m3u.cl/logo/387_Zona_Play_Radio.png" group-title="Radio", Zona Play Radio
 https://5eaccbab48461.streamlock.net:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
